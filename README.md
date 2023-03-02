@@ -13,7 +13,7 @@ Full Stack Web Developer
     <p>Foco em me manter atualizado sobre as tendências do mercado e aplicar esses conhecimentos em projetos inovadores. Além disso, sou um grande entusiasta de viagens, andar de bicicleta e estar em contato com a natureza. Valorizo muito o tempo com amigos e familiares, pois acredito que as relações pessoais são fundamentais para a construção de uma vida feliz e bem-sucedida.
     </p>
     <p>
-        <p>✉️ Entre em contato!</p>
+        <h3>✉️ Entre em contato!</h3>
         <a href="https://wa.me/5561991398012">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="40" height="40" />
         </a>
@@ -27,7 +27,7 @@ Full Stack Web Developer
 </div>
     
 <div align="left">
-    <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
+    <h3> Tecnologias 🖥️ e Ferramentas ⚙️ </h3>
     <p>React.js, React Native, Node.js, JavaScript, TypeScript, Git, MySQL, HTML, WordPress, Redux Toolkit, Context API, Jest, RTL, Styled Components,  Docker, MUI, Mocha, Chai.</p>
     <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
