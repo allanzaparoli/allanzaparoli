@@ -13,7 +13,7 @@ Full Stack Web Developer
     <p>Foco em me manter atualizado sobre as tendências do mercado e aplicar esses conhecimentos em projetos inovadores. Além disso, sou um grande entusiasta de viagens, andar de bicicleta e estar em contato com a natureza. Valorizo muito o tempo com amigos e familiares, pois acredito que as relações pessoais são fundamentais para a construção de uma vida feliz e bem-sucedida.
     </p>
     <p>
-        ✉️ Entre em contato comigo:
+        <p>✉️ Entre em contato!</p>
         <a href="https://wa.me/5561991398012">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="40" height="40" />
         </a>
