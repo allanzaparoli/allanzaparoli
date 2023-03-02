@@ -1,19 +1,19 @@
-<h1>Full Stack Web Developer<h1>
--------------------------------------------------
-
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=allanzaparoli&label=VISITAS&style=plastic&color=FF0000" alt="Quantidade de visitas" align="right">
 </div>
-<div align="center">
+
+<p>Full Stack Web Developer<p>
+-------------------------------------------------
+<div align="left">
     <h2>Hello there! Seja bem vindo(a) 😀✌🏻</h2>
 </div>
-<div>
+<div aling = "left">
     <p> Sou Programador Full Stack com vários projetos desenvolvidos, que em sua maioria utilizei HTML5, Styled Components, JavaScript, React.js, Redux, Docker, Noje.js e MySQL.
     </p>
     <p>Foco em me manter sempre atualizado sobre as tendências do mercado e aplicar esses conhecimentos em projetos inovadores. Além disso, sou um grande entusiasta de viagens, andar de bicicleta e estar em contato com a natureza. Valorizo muito o tempo com amigos e familiares, pois acredito que as relações pessoais são fundamentais para a construção de uma vida feliz e bem-sucedida.
     </p>
     <p>
-        *✉️ Entre em contato comigo 👇:
+        *✉️ Entre em contato comigo:
         <a href="https://wa.me/5561991398012">
             <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="80" height="50" />
         </a>
@@ -26,7 +26,7 @@
     </p>
 </div>
     
-<div align="center">
+<div align="left">
     <h2> Tecnologias 🖥️ e Ferramentas ⚙️ </h2>
     <p>React.js, React Native, Node.js, JavaScript, TypeScript, Git, MySQL, HTML, WordPress, Redux Toolkit, Context API, Jest, RTL, Styled Components,  Docker, MUI, Mocha, Chai.</p>
     <p align="left">
