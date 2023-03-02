@@ -8,7 +8,7 @@ Full Stack Web Developer
     <h2>Hello there! Seja bem vindo(a) 😀✌🏻</h2>
 </div>
 <div aling = "left">
-    <p> Sou Programador Full Stack com vários projetos desenvolvidos, em sua maioria utilizei HTML5, Styled Components, JavaScript, React.js, Redux, Docker, Noje.js e MySQL.
+    <p> Sou Programador Full Stack com vários projetos desenvolvidos, em sua maioria utilizei HTML5, Styled Components, JavaScript, React.js, Redux, Docker, Node.js e MySQL.
     </p>
     <p>Foco em me manter atualizado sobre as tendências do mercado e aplicar esses conhecimentos em projetos inovadores. Além disso, sou um grande entusiasta de viagens, andar de bicicleta e estar em contato com a natureza. Valorizo muito o tempo com amigos e familiares, pois acredito que as relações pessoais são fundamentais para a construção de uma vida feliz e bem-sucedida.
     </p>
